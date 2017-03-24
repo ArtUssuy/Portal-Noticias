@@ -1,2 +1,11 @@
 # estudos-node
-Estudos em Node.JS
+
+Criação de back end em Node.JS utilizando:
+
+- Express
+- Consign
+- Body Parser
+- EJS
+- MySQL
+- Express Validator
+
